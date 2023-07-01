@@ -1,1 +1,3 @@
-# tls_no_ca
+# TLS no ca verify
+build:
+make all
